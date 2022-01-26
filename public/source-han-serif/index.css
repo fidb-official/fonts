@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC ExtraLight"),
+    local("Source Han Serif SC-ExtraLight"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-ExtraLight.otf");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Light"), local("Source Han Serif SC-Light"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Light.otf");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Regular.otf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Medium"), local("Source Han Serif SC-Medium"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Medium.otf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC SemiBold"),
+    local("Source Han Serif SC-SemiBold"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-SemiBold.otf");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Bold"), local("Source Han Serif SC-Bold"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Bold.otf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Heavy"), local("Source Han Serif SC-Heavy"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Heavy.otf");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Black"), local("Source Han Serif SC-Black"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 中文字体不用斜体 */
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC ExtraLight"),
+    local("Source Han Serif SC-ExtraLight"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-ExtraLight.otf");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Light"), local("Source Han Serif SC-Light"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Light.otf");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Regular.otf");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Medium"), local("Source Han Serif SC-Medium"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Medium.otf");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC SemiBold"),
+    local("Source Han Serif SC-SemiBold"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-SemiBold.otf");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Bold"), local("Source Han Serif SC-Bold"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Bold.otf");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Heavy"), local("Source Han Serif SC-Heavy"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations"),
+    url("SourceHanSerifSC-Heavy.otf");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: local("Source Han Serif SC Black"), local("Source Han Serif SC-Black"),
+    url("SourceHanSerifSC-VF.otf.woff2") format("woff2-variations");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

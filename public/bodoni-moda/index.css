@@ -1,0 +1,117 @@
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Regular"), local("Bodoni Moda 9pt-Regular"),
+    local("Bodoni Moda 9pt"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Medium"), local("Bodoni Moda 9pt-Medium"),
+    local("Bodoni Moda 9pt"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt SemiBold"), local("Bodoni Moda 9pt-SemiBold"),
+    local("Bodoni Moda 9pt"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-SemiBold.ttf");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Bold"), local("Bodoni Moda 9pt-Bold"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt ExtraBold"), local("Bodoni Moda 9pt-ExtraBold"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-ExtraBold.ttf");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Black"), local("Bodoni Moda 9pt-Black"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-Black.ttf");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Italic */
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Italic"), local("Bodoni Moda 9pt-Italic"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Medium Italic"),
+    local("Bodoni Moda 9pt-Medium Italic"), local("Bodoni Moda 9pt"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-MediumItalic.ttf");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt SemiBold Italic"),
+    local("Bodoni Moda 9pt-SemiBold Italic"), local("Bodoni Moda 9pt"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-SemiBoldItalic.ttf");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Bold Italic"),
+    local("Bodoni Moda 9pt-Bold Italic"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt ExtraBold Italic"),
+    local("Bodoni Moda 9pt-ExtraBold Italic"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-ExtraBoldItalic.ttf");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bodoni Moda";
+  src: local("Bodoni Moda 9pt Black Italic"),
+    local("Bodoni Moda 9pt-Black Italic"),
+    url("static/BodoniModa_9pt/BodoniModa_9pt-BlackItalic.ttf");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
