@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Ysabeau";
+  src: local("Ysabeau Regular"), local("Ysabeau-Regular"),
+    local("Ysabeau"), url("Ysabeau-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ysabeau";
+  src: local("Ysabeau Italic"), local("Ysabeau-Italic"),
+    url("Ysabeau-Italic.ttf");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ysabeau";
+  src: local("Ysabeau Bold"), local("Ysabeau-Bold"),
+    url("Ysabeau-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
