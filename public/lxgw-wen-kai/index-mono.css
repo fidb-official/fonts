@@ -1,7 +1,7 @@
 @font-face {
   font-family: "LXGW WenKai Mono";
-  src: local("LXGW WenKai Regular"), local("LXGW WenKai-Regular"),
-    local("LXGW WenKai"), url("LXGWWenKaiMono-Regular.ttf");
+  src: local("LXGW WenKai Mono Regular"), local("LXGW WenKai Mono-Regular"),
+    local("LXGW WenKai Mono"), url("LXGWWenKaiMono-Regular.ttf");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "LXGW WenKai Mono";
-  src: local("LXGW WenKai Bold"), local("LXGW WenKai-Bold"),
+  src: local("LXGW WenKai Mono Bold"), local("LXGW WenKai Mono-Bold"),
     url("LXGWWenKaiMono-Bold.ttf");
   font-weight: bold;
   font-style: normal;
@@ -20,7 +20,7 @@
 
 @font-face {
   font-family: "LXGW WenKai Mono";
-  src: local("LXGW WenKai"), url("LXGWWenKaiMono-Regular.ttf");
+  src: local("LXGW WenKai Mono"), url("LXGWWenKaiMono-Regular.ttf");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: "LXGW WenKai Mono";
-  src: local("LXGW WenKai Bold"), local("LXGW WenKai-Bold"),
+  src: local("LXGW WenKai Mono Bold"), local("LXGW WenKai Mono-Bold"),
     url("LXGWWenKaiMono-Bold.ttf");
   font-weight: bold;
   font-style: italic;
