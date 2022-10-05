@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Ysabeau";
-  src: local("Ysabeau Light"), local("Ysabeau-Light"),
-    local("Ysabeau Light"), url("Ysabeau-Light.ttf");
+  src: local("Ysabeau Light"), local("Ysabeau-Light"), local("Ysabeau Light"),
+    url("Ysabeau-Light.ttf");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: "Ysabeau";
-  src: local("Ysabeau Regular"), local("Ysabeau-Regular"),
-    local("Ysabeau"), url("Ysabeau-Regular.ttf");
+  src: local("Ysabeau Regular"), local("Ysabeau-Regular"), local("Ysabeau"),
+    url("Ysabeau-Regular.ttf");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -27,8 +27,7 @@
 
 @font-face {
   font-family: "Ysabeau";
-  src: local("Ysabeau Bold"), local("Ysabeau-Bold"),
-    url("Ysabeau-Bold.ttf");
+  src: local("Ysabeau Bold"), local("Ysabeau-Bold"), url("Ysabeau-Bold.ttf");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -36,8 +35,7 @@
 
 @font-face {
   font-family: "Ysabeau";
-  src: local("Ysabeau Black"), local("Ysabeau-Black"),
-    url("Ysabeau-Black.ttf");
+  src: local("Ysabeau Black"), local("Ysabeau-Black"), url("Ysabeau-Black.ttf");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
