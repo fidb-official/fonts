@@ -1,15 +1,15 @@
 @font-face {
-  font-family: "LXGW WenKaiLite";
-  src: local("LXGW WenKaiLite Regular"), local("LXGW WenKaiLite-Regular"),
-    local("LXGW WenKaiLite"), url("LXGWWenKaiLite-Regular.ttf");
+  font-family: "LXGW WenKai Lite";
+  src: local("LXGW WenKai Lite Regular"), local("LXGW WenKai Lite-Regular"),
+    local("LXGW WenKai Lite"), url("LXGWWenKaiLite-Regular.ttf");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "LXGW WenKaiLite";
-  src: local("LXGW WenKaiLite Bold"), local("LXGW WenKaiLite-Bold"),
+  font-family: "LXGW WenKai Lite";
+  src: local("LXGW WenKai Lite Bold"), local("LXGW WenKai Lite-Bold"),
     url("LXGWWenKaiLite-Bold.ttf");
   font-weight: bold;
   font-style: normal;
@@ -19,16 +19,16 @@
 /* 中文字体不用斜体 */
 
 @font-face {
-  font-family: "LXGW WenKaiLite";
-  src: local("LXGW WenKaiLite"), url("LXGWWenKaiLite-Regular.ttf");
+  font-family: "LXGW WenKai Lite";
+  src: local("LXGW WenKai Lite"), url("LXGWWenKaiLite-Regular.ttf");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "LXGW WenKaiLite";
-  src: local("LXGW WenKaiLite Bold"), local("LXGW WenKaiLite-Bold"),
+  font-family: "LXGW WenKai Lite";
+  src: local("LXGW WenKai Lite Bold"), local("LXGW WenKai Lite-Bold"),
     url("LXGWWenKaiLite-Bold.ttf");
   font-weight: bold;
   font-style: italic;
