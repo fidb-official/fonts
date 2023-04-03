@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "LXGW WenKaiLite Mono";
+  src: local("LXGW WenKaiLite Mono Regular"), local("LXGW WenKaiLite Mono-Regular"),
+    local("LXGW WenKaiLite Mono"), url("LXGWWenKaiMonoLite-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LXGW WenKaiLite Mono";
+  src: local("LXGW WenKaiLite Mono Bold"), local("LXGW WenKaiLite Mono-Bold"),
+    url("LXGWWenKaiMonoLite-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 中文字体不用斜体 */
+
+@font-face {
+  font-family: "LXGW WenKaiLite Mono";
+  src: local("LXGW WenKaiLite Mono"), url("LXGWWenKaiMonoLite-Regular.ttf");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LXGW WenKaiLite Mono";
+  src: local("LXGW WenKaiLite Mono Bold"), local("LXGW WenKaiLite Mono-Bold"),
+    url("LXGWWenKaiMonoLite-Bold.ttf");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
