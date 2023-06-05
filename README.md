@@ -1,3 +1,3 @@
 # Fonts of Readonly.Link
 
-https://fonts.readonly.link/index.css
+<https://fonts.readonly.link/index.css>
