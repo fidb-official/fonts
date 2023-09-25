@@ -1,0 +1,6 @@
+{
+  "cors": true,
+  "cacheControlPatterns": {
+    "**.[tff|otf|woff|woff2]": "max-age=31536000"
+  }
+}
