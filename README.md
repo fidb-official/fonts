@@ -1,13 +1,13 @@
-# Fonts of Readonly.Link
+# Fonts
 
-<https://fonts.readonly.link/index.css>
+<https://fonts.fidb.app/index.css>
 
 ```
-@import url('https://fonts.readonly.link/fira-code/index.css');
-@import url('https://fonts.readonly.link/bodoni-moda/index.css');
-@import url('https://fonts.readonly.link/linux-libertine-o/index.css');
-@import url('https://fonts.readonly.link/linux-biolinum-o/index.css');
-@import url('https://fonts.readonly.link/lxgw-wenkai/index.css');
-@import url('https://fonts.readonly.link/lxgw-wenkai/index-larger.css');
-@import url('https://fonts.readonly.link/source-han-serif/index.css');
+@import url('https://fonts.fidb.app/fira-code/index.css');
+@import url('https://fonts.fidb.app/bodoni-moda/index.css');
+@import url('https://fonts.fidb.app/linux-libertine-o/index.css');
+@import url('https://fonts.fidb.app/linux-biolinum-o/index.css');
+@import url('https://fonts.fidb.app/lxgw-wenkai/index.css');
+@import url('https://fonts.fidb.app/lxgw-wenkai/index-larger.css');
+@import url('https://fonts.fidb.app/source-han-serif/index.css');
 ```
