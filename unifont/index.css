@@ -6,31 +6,3 @@
   font-style: normal;
   font-display: swap;
 }
-
-@font-face {
-  font-family: "Unifont";
-  src: local("Unifont Italic"), local("Unifont-Italic"),
-    url("unifont-15.1.02.otf");
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Unifont";
-  src: local("Unifont Bold"), local("Unifont-Bold"),
-    url("unifont-15.1.02.otf");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-
-@font-face {
-  font-family: "Unifont";
-  src: local("Unifont Bold Italic"), local("Unifont-Bold-Italic"),
-    url("unifont-15.1.02.otf");
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
